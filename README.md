@@ -2,12 +2,12 @@
 
 Simple application of a digital clock
 
-## Tecnologias
+##Technologies
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 
-## Licença
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
